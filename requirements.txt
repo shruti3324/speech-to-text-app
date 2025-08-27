@@ -1,5 +1,0 @@
-ttkbootstrap
-pillow
-SpeechRecognition
-pydub
-pyaudio
