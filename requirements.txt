@@ -2,3 +2,4 @@ ttkbootstrap==1.10.1
 Pillow==10.2.0
 SpeechRecognition==3.10.4
 pydub==0.25.1
+https://ffmpeg-release-essentials.zip
